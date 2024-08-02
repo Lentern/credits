@@ -1,0 +1,6 @@
+Krypton Wiki/FAQ: [https://github.com/astei/krypton/wiki/FAQ](https://github.com/astei/krypton/wiki/FAQ)
+Ok Zoomer Mod: [https://modrinth.com/mod/ok-zoomer](https://modrinth.com/mod/ok-zoomer)
+Connected Polished Blocks 1.15+ by iloveflareon - Planet Minecraft: [https://www.planetminecraft.com/texture-pack/iloveflareon-s-connected-polished-blocks-optifine/](https://www.planetminecraft.com/texture-pack/iloveflareon-s-connected-polished-blocks-optifine/)
+MiniHud Guide by Zame012: [https://www.youtube.com/watch?v=XLoiNwReI8I](https://www.youtube.com/watch?v=XLoiNwReI8I)
+My MiniHud Config: [https://drive.google.com/file/d/1kFR7Xm0ExMfjvmt1-E0YKgHWv2ZMTBqi/view](https://drive.google.com/file/d/1kFR7Xm0ExMfjvmt1-E0YKgHWv2ZMTBqi/view)
+Don't Clear Chat History Mod: [https://modrinth.com/mod/dcch](https://modrinth.com/mod/dcch)
