@@ -1,0 +1,6 @@
+* Krypton Wiki/FAQ: [https://github.com/astei/krypton/wiki/FAQ](https://github.com/astei/krypton/wiki/FAQ)
+* "Have an option to choose between bars and ping values" - Minecraft Feedback: [https://feedback.minecraft.net/hc/en-us/community/posts/360047994332-Have-an-option-to-choose-between-bars-and-ping-values](https://feedback.minecraft.net/hc/en-us/community/posts/360047994332-Have-an-option-to-choose-between-bars-and-ping-values)
+* Connected Polished Blocks 1.15+ by iloveflareon - Planet Minecraft: [https://www.planetminecraft.com/texture-pack/iloveflareon-s-connected-polished-blocks-optifine/](https://www.planetminecraft.com/texture-pack/iloveflareon-s-connected-polished-blocks-optifine/)
+* Ok Zoomer Mod: [https://modrinth.com/mod/ok-zoomer/versions](https://modrinth.com/mod/ok-zoomer/versions)
+* My MiniHUD Config: [https://drive.google.com/file/d/1kFR7Xm0ExMfjvmt1-E0YKgHWv2ZMTBqi/view](https://drive.google.com/file/d/1kFR7Xm0ExMfjvmt1-E0YKgHWv2ZMTBqi/view)
+* "Changing brightness/gamma above in-game limit using options.txt" - Mojang Bug Tracker: [https://bugs.mojang.com/browse/MC-51418](https://bugs.mojang.com/browse/MC-51418)
