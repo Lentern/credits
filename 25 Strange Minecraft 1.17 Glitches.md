@@ -1,0 +1,6 @@
+* "the Minecraft End Has Been Broken for 2 Years..." - AntVenom: [https://www.youtube.com/watch?v=91Feq0dHw28](https://www.youtube.com/watch?v=91Feq0dHw28)
+* AntVenom's End Dimension Graph: [https://www.desmos.com/calculator/hqdqdwbrzh](https://www.desmos.com/calculator/hqdqdwbrzh)
+* Far Lands Mod Tutorial: [https://www.youtube.com/watch?v=8HTnR6TkxoU](https://www.youtube.com/watch?v=8HTnR6TkxoU)
+* "Beetle Juice - A Minecraft Roller Coaster" - Nuropsych1: [https://www.youtube.com/watch?v=afcudstM9zA](https://www.youtube.com/watch?v=afcudstM9zA)
+* Crafterdark's "Softlock Seeds" Videos: [https://www.youtube.com/watch?v=yB2Wl5erHds](https://www.youtube.com/watch?v=yB2Wl5erHds) & [https://www.youtube.com/watch?v=3S6Jb0HIUMk](https://www.youtube.com/watch?v=3S6Jb0HIUMk)
+* "Dragon Skip Glitch Showcase" - Geosquare: [https://www.youtube.com/watch?v=MLwXclfyc8o](https://www.youtube.com/watch?v=MLwXclfyc8o)
